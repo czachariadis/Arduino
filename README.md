@@ -1,3 +1,3 @@
 # Arduino
 
-Projects i did with using the arduino course.
+Projects I did with using the arduino course.
