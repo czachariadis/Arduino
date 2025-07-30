@@ -507,22 +507,6 @@ Shift registers, displays, sensors
 
 </div>
 
-### Building and Uploading
-
-```bash
-# 1. Navigate to desired project folder
-cd "YT Lesson/7segment"
-
-# 2. Build the project
-pio run
-
-# 3. Upload to Arduino
-pio run --target upload
-
-# 4. Monitor serial output
-pio device monitor
-```
-
 ---
 
 ## 📋 Requirements
